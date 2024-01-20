@@ -1,0 +1,7 @@
+Model:
+  all-MiniLM-L12-v2
+Secure_Connection_String:
+  DefaultEndpointsProtocol=https;AccountName=bsmsupportdocs;AccountKey=U/cv1EL63Z+a6Crx4UsxYUVhvTfh5Zy+gQjVQpocnm7E7inL0WvErXiicdyBZQAkb5ol83udAoS0+AStXpuucg==;EndpointSuffix=core.windows.net
+Containers:
+  chromadbtest : chromadbtest
+  test : test
